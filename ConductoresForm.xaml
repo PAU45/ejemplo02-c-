@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.ConductoresForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Formulario Conductor" Height="250" Width="400">
+    <Grid Margin="20">
+        <StackPanel>
+            <Label Content="Nombre Conductor"/>
+            <TextBox x:Name="txtNombre" Margin="0,5"/>
+
+            <Label Content="Licencia"/>
+            <TextBox x:Name="txtLicencia" Margin="0,5"/>
+
+            <Label Content="Transporte"/>
+            <TextBox x:Name="txtTransporte" Margin="0,5"/>
+
+            <Button Content="Guardar" Margin="0,10" Click="Guardar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

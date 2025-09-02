@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menú Principal" Height="400" Width="600">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <Button Content="Operaciones" Margin="0,5" Click="Operaciones_Click"/>
+            <Button Content="Mantenimientos" Margin="0,5" Click="Mantenimientos_Click"/>
+            <Button Content="Reportes" Margin="0,5" Click="Reportes_Click"/>
+            <Button Content="Salir" Margin="0,5" Click="Salir_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApp1.Mantenimientos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mantenimientos" Height="300" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <Button Content="Conductores" Margin="0,5" Click="Conductores_Click"/>
+            <Button Content="Transportistas" Margin="0,5"/>
+            <Button Content="Camiones" Margin="0,5"/>
+            <Button Content="Productos" Margin="0,5"/>
+        </StackPanel>
+    </Grid>
+</Window>
