@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Alumno\source\repos\WpfApp1\obj\Debug\netcoreapp3.1\
+C:\Users\paulo\Documents\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\
 WpfApp1
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Alumno\source\repos\WpfApp1\App.xaml
-7-1581633349
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER
+C:\Users\paulo\Documents\WpfApp1\WpfApp1\App.xaml
+7-352591412
 
-10198575359
-1921654412462
+10-765313788
+192-1533232326
 Conductores.xaml;ConductoresForm.xaml;MainWindow.xaml;Mantenimientos.xaml;Operaciones.xaml;Reportes.xaml;Window1.xaml;
 
 False
